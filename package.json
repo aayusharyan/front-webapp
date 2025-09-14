@@ -28,7 +28,7 @@
     "firebase": "^7.17.1",
     "firebase-admin": "^8.10.0",
     "firebase-functions": "^3.6.1",
-    "nuxt": "^2.14.3",
+    "nuxt": "^4.0.3",
     "vue-class-component": "^7.2.5",
     "vue-property-decorator": "^9.0.0",
     "vue-snack": "^0.1.4"
